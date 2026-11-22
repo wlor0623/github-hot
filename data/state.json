@@ -1,4 +1,841 @@
 {
-  "updated_at": "2026-11-22T05:44:43+00:00",
-  "repos": {}
+  "updated_at": "2026-11-22T06:21:01+00:00",
+  "repos": {
+    "0xPlaygrounds/rig": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 9216
+        }
+      ],
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "stars": 9216,
+      "avatar": "https://avatars.githubusercontent.com/u/93353392?v=4"
+    },
+    "0xkaka/homeport": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 618
+        }
+      ],
+      "language": "HTML",
+      "stars": 618,
+      "avatar": "https://avatars.githubusercontent.com/u/95867652?v=4"
+    },
+    "Autumn-27/ScopeSentry": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 2610
+        }
+      ],
+      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "language": "Go",
+      "stars": 2610,
+      "avatar": "https://avatars.githubusercontent.com/u/53844290?v=4"
+    },
+    "Billionmail/BillionMail": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 16447
+        }
+      ],
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": 16447,
+      "avatar": "https://avatars.githubusercontent.com/u/216815005?v=4"
+    },
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 58724
+        }
+      ],
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 58724,
+      "avatar": "https://avatars.githubusercontent.com/u/11260967?v=4"
+    },
+    "CocoSgt/riemann-hypothesis-lean": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 466
+        }
+      ],
+      "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+      "language": "Lean",
+      "stars": 466,
+      "avatar": "https://avatars.githubusercontent.com/u/6043666?v=4"
+    },
+    "CoderL98/hghub-plugins": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 397
+        }
+      ],
+      "description": "HGhub HPP 1.0 单文件插件与订阅源",
+      "language": "JavaScript",
+      "stars": 397,
+      "avatar": "https://avatars.githubusercontent.com/u/39719083?v=4"
+    },
+    "ComposioHQ/awesome-claude-skills": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 80023
+        }
+      ],
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 80023,
+      "avatar": "https://avatars.githubusercontent.com/u/128464815?v=4"
+    },
+    "CopilotKit/OpenBot": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 13151
+        }
+      ],
+      "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+      "language": "TypeScript",
+      "stars": 13151,
+      "avatar": "https://avatars.githubusercontent.com/u/131273140?v=4"
+    },
+    "Fission-AI/OpenSpec": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 75431
+        }
+      ],
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars": 75431,
+      "avatar": "https://avatars.githubusercontent.com/u/203414896?v=4"
+    },
+    "FlashML-org/FreeVideo": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 4183
+        }
+      ],
+      "description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
+      "language": "Python",
+      "stars": 4183,
+      "avatar": "https://avatars.githubusercontent.com/u/286493426?v=4"
+    },
+    "FujiwaraChoki/supoclip": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 4013
+        }
+      ],
+      "description": "An open-source OpusClip alternative",
+      "language": "Python",
+      "stars": 4013,
+      "avatar": "https://avatars.githubusercontent.com/u/78088687?v=4"
+    },
+    "GoogleChrome/modern-web-guidance-src": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 9961
+        }
+      ],
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "stars": 9961,
+      "avatar": "https://avatars.githubusercontent.com/u/1778935?v=4"
+    },
+    "HKUDS/CLI-Anything": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 62217
+        }
+      ],
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 62217,
+      "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "Illson/RustText": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 469
+        }
+      ],
+      "description": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
+      "language": "C#",
+      "stars": 469,
+      "avatar": "https://avatars.githubusercontent.com/u/49603159?v=4"
+    },
+    "Imbad0202/academic-research-skills": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 58022
+        }
+      ],
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 58022,
+      "avatar": "https://avatars.githubusercontent.com/u/132531341?v=4"
+    },
+    "ItsNotRexed/Leonida": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 7465
+        }
+      ],
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "language": "Python",
+      "stars": 7465,
+      "avatar": "https://avatars.githubusercontent.com/u/300290919?v=4"
+    },
+    "JuliusBrussee/caveman": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 122020
+        }
+      ],
+      "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+      "language": "Go",
+      "stars": 122020,
+      "avatar": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "Lemxy/WinRust": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 979
+        }
+      ],
+      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "language": "Rust",
+      "stars": 979,
+      "avatar": "https://avatars.githubusercontent.com/u/183076981?v=4"
+    },
+    "MSNightmare/FastUnlock": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 654
+        }
+      ],
+      "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "stars": 654,
+      "avatar": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "ModernRelay/omnigraph": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 3190
+        }
+      ],
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "language": "Rust",
+      "stars": 3190,
+      "avatar": "https://avatars.githubusercontent.com/u/206314331?v=4"
+    },
+    "PostHog/posthog": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 41010
+        }
+      ],
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 41010,
+      "avatar": "https://avatars.githubusercontent.com/u/60330232?v=4"
+    },
+    "QwenLM/qwen-code": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 30851
+        }
+      ],
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "stars": 30851,
+      "avatar": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "R0Y00/Xbox2Windows": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 1015
+        }
+      ],
+      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+      "language": "Python",
+      "stars": 1015,
+      "avatar": "https://avatars.githubusercontent.com/u/128987794?v=4"
+    },
+    "SWE-agent/mini-swe-agent": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 9945
+        }
+      ],
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "language": "Python",
+      "stars": 9945,
+      "avatar": "https://avatars.githubusercontent.com/u/166046056?v=4"
+    },
+    "SaladDay/cc-switch-cli": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 5555
+        }
+      ],
+      "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
+      "language": "Rust",
+      "stars": 5555,
+      "avatar": "https://avatars.githubusercontent.com/u/92240037?v=4"
+    },
+    "Tencent/LoopForge": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 5554
+        }
+      ],
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "language": "Go",
+      "stars": 5554,
+      "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    "TencentCloud/CubeSandbox": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 13392
+        }
+      ],
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Go",
+      "stars": 13392,
+      "avatar": "https://avatars.githubusercontent.com/u/20101770?v=4"
+    },
+    "Tracer-Cloud/opensre": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 14081
+        }
+      ],
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars": 14081,
+      "avatar": "https://avatars.githubusercontent.com/u/196393879?v=4"
+    },
+    "ViceVerse-cz/Serein": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 1692
+        }
+      ],
+      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
+      "language": "Rust",
+      "stars": 1692,
+      "avatar": "https://avatars.githubusercontent.com/u/106090820?v=4"
+    },
+    "Viren070/AIOStreams": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 3297
+        }
+      ],
+      "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
+      "language": "TypeScript",
+      "stars": 3297,
+      "avatar": "https://avatars.githubusercontent.com/u/71220264?v=4"
+    },
+    "XiaoYouChR/Ghost-Downloader-3": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 14610
+        }
+      ],
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "stars": 14610,
+      "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4"
+    },
+    "ZhuLinsen/daily_stock_analysis": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 73650
+        }
+      ],
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 73650,
+      "avatar": "https://avatars.githubusercontent.com/u/42829555?v=4"
+    },
+    "a2ui-project/a2ui": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 17866
+        }
+      ],
+      "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+      "language": "TypeScript",
+      "stars": 17866,
+      "avatar": "https://avatars.githubusercontent.com/u/265316950?v=4"
+    },
+    "ag-ui-protocol/ag-ui": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 21060
+        }
+      ],
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars": 21060,
+      "avatar": "https://avatars.githubusercontent.com/u/209775067?v=4"
+    },
+    "agent-substrate/substrate": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 8104
+        }
+      ],
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 8104,
+      "avatar": "https://avatars.githubusercontent.com/u/280516639?v=4"
+    },
+    "agentscope-ai/agentscope": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 36448
+        }
+      ],
+      "description": "Build and run agents you can see, understand and trust.",
+      "language": "Python",
+      "stars": 36448,
+      "avatar": "https://avatars.githubusercontent.com/u/211762292?v=4"
+    },
+    "alibaba/open-code-review": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 55175
+        }
+      ],
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 55175,
+      "avatar": "https://avatars.githubusercontent.com/u/1961952?v=4"
+    },
+    "andrewyng/openworker": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 19530
+        }
+      ],
+      "language": "Python",
+      "stars": 19530,
+      "avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
+    },
+    "anomalyco/opencode": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 228458
+        }
+      ],
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 228458,
+      "avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "anthropics/skills": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 198607
+        }
+      ],
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 198607,
+      "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 342
+        }
+      ],
+      "description": "Discord & Local Uncensored AI Discord Activity serial-utility, Quest Auto-Completer & Badge Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead",
+      "language": "Jupyter Notebook",
+      "stars": 342,
+      "avatar": "https://avatars.githubusercontent.com/u/278149815?v=4"
+    },
+    "apache/airflow": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 47590
+        }
+      ],
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "language": "Python",
+      "stars": 47590,
+      "avatar": "https://avatars.githubusercontent.com/u/47359?v=4"
+    },
+    "appwrite/appwrite": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 58525
+        }
+      ],
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "language": "TypeScript",
+      "stars": 58525,
+      "avatar": "https://avatars.githubusercontent.com/u/25003669?v=4"
+    },
+    "aquasecurity/trivy": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 39604
+        }
+      ],
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 39604,
+      "avatar": "https://avatars.githubusercontent.com/u/12783832?v=4"
+    },
+    "awslabs/cli-agent-orchestrator": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 1622
+        }
+      ],
+      "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+      "language": "Python",
+      "stars": 1622,
+      "avatar": "https://avatars.githubusercontent.com/u/3299148?v=4"
+    },
+    "backnotprop/plannotator": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 14219
+        }
+      ],
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars": 14219,
+      "avatar": "https://avatars.githubusercontent.com/u/7244317?v=4"
+    },
+    "bendlang/bend": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 25742
+        }
+      ],
+      "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLhttps://bend-lang.com/install.sh| sh",
+      "language": "TypeScript",
+      "stars": 25742,
+      "avatar": "https://avatars.githubusercontent.com/u/330058878?v=4"
+    },
+    "block/buzz": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 37649
+        }
+      ],
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 37649,
+      "avatar": "https://avatars.githubusercontent.com/u/185116535?v=4"
+    },
+    "bookwjitchieni1986/blender-ai-mcp-addon": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 2685
+        }
+      ],
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+      "stars": 2685,
+      "avatar": "https://avatars.githubusercontent.com/u/356367752?v=4"
+    },
+    "boringmarketer/boring-marketing-skills": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 784
+        }
+      ],
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "language": "Python",
+      "stars": 784,
+      "avatar": "https://avatars.githubusercontent.com/u/212546731?v=4"
+    },
+    "cathrynlavery/diagram-design": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 69908
+        }
+      ],
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 69908,
+      "avatar": "https://avatars.githubusercontent.com/u/50469282?v=4"
+    },
+    "chuanqisun/spaceship": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 1028
+        }
+      ],
+      "description": "Steer ideas like a space pilot!",
+      "language": "HTML",
+      "stars": 1028,
+      "avatar": "https://avatars.githubusercontent.com/u/1895289?v=4"
+    },
+    "cli/cli": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 47133
+        }
+      ],
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 47133,
+      "avatar": "https://avatars.githubusercontent.com/u/59704711?v=4"
+    },
+    "colbymchenry/codegraph": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 78347
+        }
+      ],
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 78347,
+      "avatar": "https://avatars.githubusercontent.com/u/18431132?v=4"
+    },
+    "crmne/zapfast": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 4886
+        }
+      ],
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+      "language": "Rust",
+      "stars": 4886,
+      "avatar": "https://avatars.githubusercontent.com/u/106617?v=4"
+    },
+    "croffasia/itsaplan": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 2476
+        }
+      ],
+      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+      "language": "TypeScript",
+      "stars": 2476,
+      "avatar": "https://avatars.githubusercontent.com/u/696180?v=4"
+    },
+    "cursor/plugins": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 18172
+        }
+      ],
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 18172,
+      "avatar": "https://avatars.githubusercontent.com/u/126759922?v=4"
+    },
+    "danielwh2/sprite-stacking": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 394
+        }
+      ],
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "language": "HTML",
+      "stars": 394,
+      "avatar": "https://avatars.githubusercontent.com/u/51721416?v=4"
+    },
+    "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64": {
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "samples": [
+        {
+          "ts": "2026-11-22T06:21:01+00:00",
+          "stars": 342
+        }
+      ],
+      "description": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "language": "Jupyter Notebook",
+      "stars": 342,
+      "avatar": "https://avatars.githubusercontent.com/u/278197279?v=4"
+    }
+  }
 }
