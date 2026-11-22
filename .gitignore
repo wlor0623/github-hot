@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 本地组装的 Pages 产物（由 build_site.py 在 CI 里生成）
+public/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 会话产物
+.playwright-mcp/
+.zcode/

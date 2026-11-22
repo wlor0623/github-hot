@@ -1,0 +1,82 @@
+name: monitor
+
+on:
+  schedule:
+    # 全量运行须与 src/config.py 的 DAILY_CRON 保持一致
+    - cron: '0 0 * * *'    # 08:00 北京时间：全量（榜单+雷达+日报+推送）
+    - cron: '0 6 * * *'    # 14:00：star 采样
+    - cron: '0 12 * * *'   # 20:00：star 采样
+    - cron: '0 18 * * *'   # 02:00：star 采样
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式：daily=全量 sample=仅采样'
+        required: false
+        default: 'daily'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-hot
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行监控
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          TRIGGERED_SCHEDULE: ${{ github.event.schedule }}
+        run: python -m src.main --mode "${{ inputs.mode || 'auto' }}"
+
+      - name: 组装站点
+        run: python -m src.build_site
+
+      - name: 提交数据与日报
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          if git diff --cached --quiet; then
+            echo "无数据变更，跳过提交"
+          else
+            git commit -m "monitor: $(TZ=Asia/Shanghai date +%F) 数据更新"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy-pages:
+    needs: monitor
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,25 @@
+{
+  "languages": ["", "python", "typescript", "rust", "go"],
+  "trending_sinces": ["daily", "weekly"],
+  "radar": {
+    "days": 7,
+    "min_stars": 50,
+    "top": 30
+  },
+  "surge": {
+    "daily_threshold": 500
+  },
+  "track_retention_days": 30,
+  "digest": {
+    "trending_top": 10,
+    "radar_top": 10,
+    "gainers_top": 10
+  },
+  "notify": {
+    "feishu": true,
+    "dingtalk": true,
+    "wecom": true
+  },
+  "site_url": "https://wlor0623.github.io/github-hot/",
+  "repo_url": "https://github.com/wlor0623/github-hot"
+}
