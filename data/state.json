@@ -1,14 +1,10 @@
 {
-  "updated_at": "2026-11-26T16:10:39+00:00",
+  "updated_at": "2026-11-26T20:57:11+00:00",
   "repos": {
     "0xPlaygrounds/rig": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 9253
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 9254
@@ -36,21 +32,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 9274
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 9279
         }
       ],
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "language": "Rust",
-      "stars": 9274,
+      "stars": 9279,
       "avatar": "https://avatars.githubusercontent.com/u/93353392?v=4"
     },
     "0xkaka/homeport": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-23",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 658
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 660
@@ -78,20 +74,20 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 695
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 696
         }
       ],
       "language": "HTML",
-      "stars": 695,
+      "stars": 696,
       "avatar": "https://avatars.githubusercontent.com/u/95867652?v=4"
     },
     "Autumn-27/ScopeSentry": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2675
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2676
@@ -119,21 +115,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2712
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2716
         }
       ],
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
-      "stars": 2712,
+      "stars": 2716,
       "avatar": "https://avatars.githubusercontent.com/u/53844290?v=4"
     },
     "Billionmail/BillionMail": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 16470
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 16471
@@ -161,21 +157,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 16482
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 16484
         }
       ],
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
       "language": "Go",
-      "stars": 16482,
+      "stars": 16484,
       "avatar": "https://avatars.githubusercontent.com/u/216815005?v=4"
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 59197
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 59219
@@ -203,21 +199,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 59466
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 59488
         }
       ],
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 59466,
+      "stars": 59488,
       "avatar": "https://avatars.githubusercontent.com/u/11260967?v=4"
     },
     "CocoSgt/riemann-hypothesis-lean": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 558
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 561
@@ -245,21 +241,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 581
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 584
         }
       ],
       "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
       "language": "Lean",
-      "stars": 581,
+      "stars": 584,
       "avatar": "https://avatars.githubusercontent.com/u/6043666?v=4"
     },
     "CoderL98/hghub-plugins": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 522
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 524
@@ -287,21 +283,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 581
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 585
         }
       ],
       "description": "HGhub HPP 1.0 单文件插件与订阅源",
       "language": "JavaScript",
-      "stars": 581,
+      "stars": 585,
       "avatar": "https://avatars.githubusercontent.com/u/39719083?v=4"
     },
     "ComposioHQ/awesome-claude-skills": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 80247
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 80254
@@ -329,21 +325,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 80369
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 80389
         }
       ],
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": 80369,
+      "stars": 80389,
       "avatar": "https://avatars.githubusercontent.com/u/128464815?v=4"
     },
     "CopilotKit/OpenBot": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 13413
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 13430
@@ -371,21 +367,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 13602
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 13626
         }
       ],
       "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "language": "TypeScript",
-      "stars": 13602,
+      "stars": 13626,
       "avatar": "https://avatars.githubusercontent.com/u/131273140?v=4"
     },
     "Fission-AI/OpenSpec": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 75639
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 75646
@@ -413,21 +409,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 75796
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 75807
         }
       ],
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars": 75796,
+      "stars": 75807,
       "avatar": "https://avatars.githubusercontent.com/u/203414896?v=4"
     },
     "FlashML-org/FreeVideo": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 4889
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 4903
@@ -455,21 +451,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5053
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5066
         }
       ],
       "description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
       "language": "Python",
-      "stars": 5053,
+      "stars": 5066,
       "avatar": "https://avatars.githubusercontent.com/u/286493426?v=4"
     },
     "FujiwaraChoki/supoclip": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 4166
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 4170
@@ -497,21 +493,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 4245
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 4253
         }
       ],
       "description": "An open-source OpusClip alternative",
       "language": "Python",
-      "stars": 4245,
+      "stars": 4253,
       "avatar": "https://avatars.githubusercontent.com/u/78088687?v=4"
     },
     "GoogleChrome/modern-web-guidance-src": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 10795
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 10828
@@ -539,21 +535,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 11202
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 11233
         }
       ],
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars": 11202,
+      "stars": 11233,
       "avatar": "https://avatars.githubusercontent.com/u/1778935?v=4"
     },
     "HKUDS/CLI-Anything": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 64654
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 64839
@@ -581,21 +577,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 66169
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 66271
         }
       ],
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars": 66169,
+      "stars": 66271,
       "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4"
     },
     "Illson/RustText": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 468
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 468
@@ -623,21 +619,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 465
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 463
         }
       ],
       "description": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
       "language": "C#",
-      "stars": 465,
+      "stars": 463,
       "avatar": "https://avatars.githubusercontent.com/u/49603159?v=4"
     },
     "Imbad0202/academic-research-skills": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 58418
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 58427
@@ -665,11 +661,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 58667
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 58686
         }
       ],
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars": 58667,
+      "stars": 58686,
       "avatar": "https://avatars.githubusercontent.com/u/132531341?v=4"
     },
     "ItsNotRexed/Leonida": {
@@ -719,10 +719,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 122630
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 122658
         },
@@ -749,21 +745,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 123017
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 123064
         }
       ],
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "language": "Go",
-      "stars": 123017,
+      "stars": 123064,
       "avatar": "https://avatars.githubusercontent.com/u/104168679?v=4"
     },
     "Lemxy/WinRust": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-23",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1451
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1470
@@ -791,21 +787,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1608
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1616
         }
       ],
       "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "language": "Rust",
-      "stars": 1608,
+      "stars": 1616,
       "avatar": "https://avatars.githubusercontent.com/u/183076981?v=4"
     },
     "MSNightmare/FastUnlock": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-25",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 724
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 727
@@ -833,20 +829,20 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 743
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 745
         }
       ],
       "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-      "stars": 743,
+      "stars": 745,
       "avatar": "https://avatars.githubusercontent.com/u/291905677?v=4"
     },
     "ModernRelay/omnigraph": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3259
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3263
@@ -874,21 +870,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3296
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3300
         }
       ],
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
-      "stars": 3296,
+      "stars": 3300,
       "avatar": "https://avatars.githubusercontent.com/u/206314331?v=4"
     },
     "PostHog/posthog": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 41087
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 41091
@@ -916,21 +912,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 41157
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 41166
         }
       ],
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 41157,
+      "stars": 41166,
       "avatar": "https://avatars.githubusercontent.com/u/60330232?v=4"
     },
     "QwenLM/qwen-code": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 30924
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 30925
@@ -958,21 +954,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 30957
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 30959
         }
       ],
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
-      "stars": 30957,
+      "stars": 30959,
       "avatar": "https://avatars.githubusercontent.com/u/141221163?v=4"
     },
     "R0Y00/Xbox2Windows": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1892
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1908
@@ -1000,21 +996,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1961
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1964
         }
       ],
       "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "language": "Python",
-      "stars": 1961,
+      "stars": 1964,
       "avatar": "https://avatars.githubusercontent.com/u/128987794?v=4"
     },
     "SWE-agent/mini-swe-agent": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 10048
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 10052
@@ -1042,21 +1038,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 10113
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 10119
         }
       ],
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "language": "Python",
-      "stars": 10113,
+      "stars": 10119,
       "avatar": "https://avatars.githubusercontent.com/u/166046056?v=4"
     },
     "SaladDay/cc-switch-cli": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5573
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 5574
@@ -1084,21 +1080,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5584
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5586
         }
       ],
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
-      "stars": 5584,
+      "stars": 5586,
       "avatar": "https://avatars.githubusercontent.com/u/92240037?v=4"
     },
     "Tencent/LoopForge": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5988
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 6001
@@ -1126,21 +1122,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5991
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5992
         }
       ],
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
-      "stars": 5991,
+      "stars": 5992,
       "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4"
     },
     "TencentCloud/CubeSandbox": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 13439
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 13440
@@ -1168,21 +1164,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 13474
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 13471
         }
       ],
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
-      "stars": 13474,
+      "stars": 13471,
       "avatar": "https://avatars.githubusercontent.com/u/20101770?v=4"
     },
     "Tracer-Cloud/opensre": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 15148
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 15201
@@ -1210,21 +1206,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 15713
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 15768
         }
       ],
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars": 15713,
+      "stars": 15768,
       "avatar": "https://avatars.githubusercontent.com/u/196393879?v=4"
     },
     "ViceVerse-cz/Serein": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1758
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1763
@@ -1252,21 +1248,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1822
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1827
         }
       ],
       "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "language": "Rust",
-      "stars": 1822,
+      "stars": 1827,
       "avatar": "https://avatars.githubusercontent.com/u/106090820?v=4"
     },
     "Viren070/AIOStreams": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3329
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3330
@@ -1294,21 +1290,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3337
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3338
         }
       ],
       "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
       "language": "TypeScript",
-      "stars": 3337,
+      "stars": 3338,
       "avatar": "https://avatars.githubusercontent.com/u/71220264?v=4"
     },
     "XiaoYouChR/Ghost-Downloader-3": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 17242
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 17390
@@ -1336,21 +1332,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 18919
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 19022
         }
       ],
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": 18919,
+      "stars": 19022,
       "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4"
     },
     "ZhuLinsen/daily_stock_analysis": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 74306
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 74345
@@ -1378,21 +1374,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 74770
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 74794
         }
       ],
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars": 74770,
+      "stars": 74794,
       "avatar": "https://avatars.githubusercontent.com/u/42829555?v=4"
     },
     "a2ui-project/a2ui": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 18523
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 18551
@@ -1420,21 +1416,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 18747
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 18778
         }
       ],
       "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
       "language": "TypeScript",
-      "stars": 18747,
+      "stars": 18778,
       "avatar": "https://avatars.githubusercontent.com/u/265316950?v=4"
     },
     "ag-ui-protocol/ag-ui": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 21552
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 21575
@@ -1462,21 +1458,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 21817
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 21829
         }
       ],
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars": 21817,
+      "stars": 21829,
       "avatar": "https://avatars.githubusercontent.com/u/209775067?v=4"
     },
     "agent-substrate/substrate": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 8290
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 8301
@@ -1504,21 +1500,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 8390
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 8424
         }
       ],
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars": 8390,
+      "stars": 8424,
       "avatar": "https://avatars.githubusercontent.com/u/280516639?v=4"
     },
     "agentscope-ai/agentscope": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 36648
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 36657
@@ -1546,21 +1542,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 36760
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 36766
         }
       ],
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
-      "stars": 36760,
+      "stars": 36766,
       "avatar": "https://avatars.githubusercontent.com/u/211762292?v=4"
     },
     "alibaba/open-code-review": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 56032
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 56060
@@ -1588,21 +1584,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 56578
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 56621
         }
       ],
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 56578,
+      "stars": 56621,
       "avatar": "https://avatars.githubusercontent.com/u/1961952?v=4"
     },
     "andrewyng/openworker": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 19579
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 19581
@@ -1630,20 +1626,20 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 19612
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 19615
         }
       ],
       "language": "Python",
-      "stars": 19612,
+      "stars": 19615,
       "avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
     },
     "anomalyco/opencode": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 228965
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 228987
@@ -1671,21 +1667,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 229348
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 229386
         }
       ],
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 229348,
+      "stars": 229386,
       "avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
     },
     "anthropics/skills": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 199917
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 199996
@@ -1713,11 +1709,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 200882
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 200978
         }
       ],
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": 200882,
+      "stars": 200978,
       "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
     },
     "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po": {
@@ -1759,10 +1759,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 47653
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 47657
         },
@@ -1789,21 +1785,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 47689
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 47696
         }
       ],
       "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
       "language": "Python",
-      "stars": 47689,
+      "stars": 47696,
       "avatar": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
     "appwrite/appwrite": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 58581
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 58591
@@ -1831,21 +1827,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 58659
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 58661
         }
       ],
       "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
       "language": "TypeScript",
-      "stars": 58659,
+      "stars": 58661,
       "avatar": "https://avatars.githubusercontent.com/u/25003669?v=4"
     },
     "aquasecurity/trivy": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 39693
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 39699
@@ -1873,21 +1869,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 39782
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 39798
         }
       ],
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": 39782,
+      "stars": 39798,
       "avatar": "https://avatars.githubusercontent.com/u/12783832?v=4"
     },
     "awslabs/cli-agent-orchestrator": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1669
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1671
@@ -1915,21 +1911,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1689
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1693
         }
       ],
       "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
       "language": "Python",
-      "stars": 1689,
+      "stars": 1693,
       "avatar": "https://avatars.githubusercontent.com/u/3299148?v=4"
     },
     "backnotprop/plannotator": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 14873
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 14898
@@ -1957,21 +1953,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 15208
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 15233
         }
       ],
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars": 15208,
+      "stars": 15233,
       "avatar": "https://avatars.githubusercontent.com/u/7244317?v=4"
     },
     "bendlang/bend": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 25849
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 25854
@@ -1999,21 +1995,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 25912
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 25918
         }
       ],
       "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLhttps://bend-lang.com/install.sh| sh",
       "language": "TypeScript",
-      "stars": 25912,
+      "stars": 25918,
       "avatar": "https://avatars.githubusercontent.com/u/330058878?v=4"
     },
     "block/buzz": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 37730
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 37737
@@ -2041,11 +2037,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 37779
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 37787
         }
       ],
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars": 37779,
+      "stars": 37787,
       "avatar": "https://avatars.githubusercontent.com/u/185116535?v=4"
     },
     "bookwjitchieni1986/blender-ai-mcp-addon": {
@@ -2090,10 +2090,6 @@
       "last_seen": "2026-11-22",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 844
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 845
         },
@@ -2120,21 +2116,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 862
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 865
         }
       ],
       "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "language": "Python",
-      "stars": 862,
+      "stars": 865,
       "avatar": "https://avatars.githubusercontent.com/u/212546731?v=4"
     },
     "cathrynlavery/diagram-design": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 71927
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 72085
@@ -2162,21 +2158,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 73639
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 73758
         }
       ],
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 73639,
+      "stars": 73758,
       "avatar": "https://avatars.githubusercontent.com/u/50469282?v=4"
     },
     "chuanqisun/spaceship": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1085
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1090
@@ -2204,21 +2200,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1111
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1116
         }
       ],
       "description": "Steer ideas like a space pilot!",
       "language": "HTML",
-      "stars": 1111,
+      "stars": 1116,
       "avatar": "https://avatars.githubusercontent.com/u/1895289?v=4"
     },
     "cli/cli": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 47183
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 47185
@@ -2246,21 +2242,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 47232
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 47229
         }
       ],
       "description": "GitHub’s official command line tool",
       "language": "Go",
-      "stars": 47232,
+      "stars": 47229,
       "avatar": "https://avatars.githubusercontent.com/u/59704711?v=4"
     },
     "colbymchenry/codegraph": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 78610
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 78624
@@ -2288,21 +2284,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 78769
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 78780
         }
       ],
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 78769,
+      "stars": 78780,
       "avatar": "https://avatars.githubusercontent.com/u/18431132?v=4"
     },
     "crmne/zapfast": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5036
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 5049
@@ -2330,21 +2326,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5105
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5108
         }
       ],
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
-      "stars": 5105,
+      "stars": 5108,
       "avatar": "https://avatars.githubusercontent.com/u/106617?v=4"
     },
     "croffasia/itsaplan": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2614
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2623
@@ -2372,21 +2368,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2678
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2684
         }
       ],
       "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
       "language": "TypeScript",
-      "stars": 2678,
+      "stars": 2684,
       "avatar": "https://avatars.githubusercontent.com/u/696180?v=4"
     },
     "cursor/plugins": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 19161
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 19235
@@ -2414,21 +2410,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 19711
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 19761
         }
       ],
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 19711,
+      "stars": 19761,
       "avatar": "https://avatars.githubusercontent.com/u/126759922?v=4"
     },
     "danielwh2/sprite-stacking": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 768
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 775
@@ -2456,11 +2452,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1019
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1028
         }
       ],
       "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
       "language": "HTML",
-      "stars": 1019,
+      "stars": 1028,
       "avatar": "https://avatars.githubusercontent.com/u/51721416?v=4"
     },
     "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64": {
@@ -2502,10 +2502,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2329
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2329
         },
@@ -2532,21 +2528,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2363
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2364
         }
       ],
       "description": "OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.",
       "language": "Go",
-      "stars": 2363,
+      "stars": 2364,
       "avatar": "https://avatars.githubusercontent.com/u/141394827?v=4"
     },
     "davila7/claude-code-templates": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 34175
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 34182
@@ -2574,21 +2570,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 34222
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 34227
         }
       ],
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "language": "Python",
-      "stars": 34222,
+      "stars": 34227,
       "avatar": "https://avatars.githubusercontent.com/u/6216945?v=4"
     },
     "docker/compose": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 39032
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 39037
@@ -2616,21 +2612,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 39120
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 39125
         }
       ],
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
-      "stars": 39120,
+      "stars": 39125,
       "avatar": "https://avatars.githubusercontent.com/u/5429470?v=4"
     },
     "dream-num/univer": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 31676
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 31698
@@ -2658,21 +2654,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 31934
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 31953
         }
       ],
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars": 31934,
+      "stars": 31953,
       "avatar": "https://avatars.githubusercontent.com/u/61444807?v=4"
     },
     "duwqijlk/google-trial-tool": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 462
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 462
@@ -2700,20 +2696,20 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 472
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 474
         }
       ],
       "language": "JavaScript",
-      "stars": 472,
+      "stars": 474,
       "avatar": "https://avatars.githubusercontent.com/u/126966774?v=4"
     },
     "earendil-works/pi": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 123719
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 123726
@@ -2741,21 +2737,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 124044
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 124057
         }
       ],
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": 124044,
+      "stars": 124057,
       "avatar": "https://avatars.githubusercontent.com/u/207902832?v=4"
     },
     "elementalsouls/Claude-BugHunter": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 21317
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 21517
@@ -2783,21 +2779,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 24093
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 24370
         }
       ],
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": 24093,
+      "stars": 24370,
       "avatar": "https://avatars.githubusercontent.com/u/49252733?v=4"
     },
     "erkamyaman/rust-anything": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 9178
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 9231
@@ -2825,21 +2821,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 9981
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 10134
         }
       ],
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stars": 9981,
+      "stars": 10134,
       "avatar": "https://avatars.githubusercontent.com/u/88717125?v=4"
     },
     "firecrawl/firecrawl": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 208846
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 208972
@@ -2867,21 +2863,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 210671
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 210839
         }
       ],
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": 210671,
+      "stars": 210839,
       "avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
     },
     "gastownhall/beads": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 29017
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 29026
@@ -2909,21 +2905,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 29114
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 29119
         }
       ],
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
-      "stars": 29114,
+      "stars": 29119,
       "avatar": "https://avatars.githubusercontent.com/u/255961667?v=4"
     },
     "getarcaneapp/arcane": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 10392
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 10402
@@ -2951,21 +2947,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 10550
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 10562
         }
       ],
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
-      "stars": 10550,
+      "stars": 10562,
       "avatar": "https://avatars.githubusercontent.com/u/236685631?v=4"
     },
     "github/spec-kit": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 151274
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 151288
@@ -2993,21 +2989,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 151475
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 151521
         }
       ],
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
-      "stars": 151475,
+      "stars": 151521,
       "avatar": "https://avatars.githubusercontent.com/u/9919?v=4"
     },
     "gogs/gogs": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 47991
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 47993
@@ -3035,21 +3031,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 48001
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 48002
         }
       ],
       "description": "The painless way to host your own Git service",
       "language": "Go",
-      "stars": 48001,
+      "stars": 48002,
       "avatar": "https://avatars.githubusercontent.com/u/6656686?v=4"
     },
     "google-labs-code/design.md": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 29089
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 29090
@@ -3077,21 +3073,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 29145
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 29154
         }
       ],
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 29145,
+      "stars": 29154,
       "avatar": "https://avatars.githubusercontent.com/u/161364575?v=4"
     },
     "google-labs-code/stitch-skills": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 12610
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 12666
@@ -3119,21 +3115,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 13193
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 13248
         }
       ],
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 13193,
+      "stars": 13248,
       "avatar": "https://avatars.githubusercontent.com/u/161364575?v=4"
     },
     "google-research/paper-orchestra": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 6288
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 6309
@@ -3161,11 +3157,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 6487
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 6501
         }
       ],
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
-      "stars": 6487,
+      "stars": 6501,
       "avatar": "https://avatars.githubusercontent.com/u/43830688?v=4"
     },
     "gylive/google-ultra": {
@@ -3199,10 +3199,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 7588
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 7598
         },
@@ -3229,21 +3225,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 7733
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 7744
         }
       ],
       "description": "Email for professionals and teams",
       "language": "TypeScript",
-      "stars": 7733,
+      "stars": 7744,
       "avatar": "https://avatars.githubusercontent.com/u/8464869?v=4"
     },
     "iamajmeena/neonclipping": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-25",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2472
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2487
@@ -3271,21 +3267,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2689
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2707
         }
       ],
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "language": "Python",
-      "stars": 2689,
+      "stars": 2707,
       "avatar": "https://avatars.githubusercontent.com/u/265551449?v=4"
     },
     "janhq/jan": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 46079
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 46088
@@ -3313,21 +3309,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 46192
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 46206
         }
       ],
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "language": "Rust",
-      "stars": 46192,
+      "stars": 46206,
       "avatar": "https://avatars.githubusercontent.com/u/102363196?v=4"
     },
     "jingyaogong/minimind": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 70126
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 70247
@@ -3355,21 +3351,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 71510
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 71577
         }
       ],
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": 71510,
+      "stars": 71577,
       "avatar": "https://avatars.githubusercontent.com/u/62287848?v=4"
     },
     "juspay/hyperswitch": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 45893
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 45896
@@ -3397,21 +3393,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 45922
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 45924
         }
       ],
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
-      "stars": 45922,
+      "stars": 45924,
       "avatar": "https://avatars.githubusercontent.com/u/11497632?v=4"
     },
     "kagent-dev/kagent": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 4518
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 4519
@@ -3439,21 +3435,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 4545
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 4548
         }
       ],
       "description": "Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord",
       "language": "Go",
-      "stars": 4545,
+      "stars": 4548,
       "avatar": "https://avatars.githubusercontent.com/u/195942545?v=4"
     },
     "kajisho5/ffmpeg-skill": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 10636
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 10702
@@ -3481,11 +3477,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 11405
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 11472
         }
       ],
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "stars": 11405,
+      "stars": 11472,
       "avatar": "https://avatars.githubusercontent.com/u/20648875?v=4"
     },
     "krisgfx9/Wireless-Device-Battery-Monitor": {
@@ -3506,10 +3506,6 @@
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 11980
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 11982
@@ -3536,6 +3532,10 @@
         },
         {
           "ts": "2026-11-26T16:10:39+00:00",
+          "stars": 11994
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
           "stars": 11994
         }
       ],
@@ -3575,10 +3575,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 33899
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 33912
         },
@@ -3605,21 +3601,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 34167
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 34187
         }
       ],
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
-      "stars": 34167,
+      "stars": 34187,
       "avatar": "https://avatars.githubusercontent.com/u/22748003?v=4"
     },
     "leanprover-community/riemann-hypothesis": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1030
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1063
@@ -3647,21 +3643,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1399
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1440
         }
       ],
       "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
       "language": "Lean",
-      "stars": 1399,
+      "stars": 1440,
       "avatar": "https://avatars.githubusercontent.com/u/41703605?v=4"
     },
     "lobehub/lobehub": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 86100
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 86108
@@ -3689,21 +3685,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 86181
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 86182
         }
       ],
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
-      "stars": 86181,
+      "stars": 86182,
       "avatar": "https://avatars.githubusercontent.com/u/131470832?v=4"
     },
     "louis-e/arnis": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 18818
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 18820
@@ -3731,21 +3727,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 18855
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 18861
         }
       ],
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
-      "stars": 18855,
+      "stars": 18861,
       "avatar": "https://avatars.githubusercontent.com/u/44675238?v=4"
     },
     "malisper/pgrust": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 6046
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 6052
@@ -3773,21 +3769,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 6087
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 6092
         }
       ],
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "language": "Rust",
-      "stars": 6087,
+      "stars": 6092,
       "avatar": "https://avatars.githubusercontent.com/u/6210567?v=4"
     },
     "martin-olivier/airgorah": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 7010
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 7020
@@ -3815,21 +3811,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 7084
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 7088
         }
       ],
       "description": "A WiFi security auditing software",
       "language": "Rust",
-      "stars": 7084,
+      "stars": 7088,
       "avatar": "https://avatars.githubusercontent.com/u/58467105?v=4"
     },
     "mastra-ai/mastra": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 29794
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 29797
@@ -3857,21 +3853,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 29835
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 29840
         }
       ],
       "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
       "language": "TypeScript",
-      "stars": 29835,
+      "stars": 29840,
       "avatar": "https://avatars.githubusercontent.com/u/149120496?v=4"
     },
     "meta/astryx": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 32846
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 32886
@@ -3899,21 +3895,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 33286
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 33318
         }
       ],
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": 33286,
+      "stars": 33318,
       "avatar": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
     "microsoft/PyRIT": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5055
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 5058
@@ -3941,21 +3937,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5114
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5121
         }
       ],
       "description": "Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.",
       "language": "Python",
-      "stars": 5114,
+      "stars": 5121,
       "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     "microsoft/markitdown": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 198265
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 198291
@@ -3983,21 +3979,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 198574
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 198604
         }
       ],
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 198574,
+      "stars": 198604,
       "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     "milind-soni/OpenMausBot": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 27494
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 27530
@@ -4025,21 +4021,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 28064
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 28129
         }
       ],
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars": 28064,
+      "stars": 28129,
       "avatar": "https://avatars.githubusercontent.com/u/46266943?v=4"
     },
     "mjmirza/app-store-compliance": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5784
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 5884
@@ -4067,21 +4063,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 6869
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 6956
         }
       ],
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": 6869,
+      "stars": 6956,
       "avatar": "https://avatars.githubusercontent.com/u/34001140?v=4"
     },
     "multica-ai/multica": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 57727
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 57754
@@ -4109,21 +4105,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 58071
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 58077
         }
       ],
       "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "language": "Go",
-      "stars": 58071,
+      "stars": 58077,
       "avatar": "https://avatars.githubusercontent.com/u/254743058?v=4"
     },
     "mvanhorn/last30days-skill": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 74127
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 74248
@@ -4151,11 +4147,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 75563
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 75661
         }
       ],
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 75563,
+      "stars": 75661,
       "avatar": "https://avatars.githubusercontent.com/u/455140?v=4"
     },
     "nataphong-lab/Open-Source-Face-Recognition-Ultimate": {
@@ -4205,10 +4205,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 21133
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 21135
         },
@@ -4235,21 +4231,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 21162
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 21166
         }
       ],
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
-      "stars": 21162,
+      "stars": 21166,
       "avatar": "https://avatars.githubusercontent.com/u/10203055?v=4"
     },
     "nginx/nginx": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 33198
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 33226
@@ -4277,21 +4273,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 33475
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 33504
         }
       ],
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": 33475,
+      "stars": 33504,
       "avatar": "https://avatars.githubusercontent.com/u/1412239?v=4"
     },
     "obra/superpowers": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 325725
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 325850
@@ -4319,21 +4315,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 327199
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 327378
         }
       ],
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 327199,
+      "stars": 327378,
       "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
     },
     "odoo/odoo": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 56076
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 56078
@@ -4361,21 +4357,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 56122
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 56125
         }
       ],
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars": 56122,
+      "stars": 56125,
       "avatar": "https://avatars.githubusercontent.com/u/6368483?v=4"
     },
     "omonkeyz/xbox-emulator": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1813
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1825
@@ -4403,21 +4399,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1852
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1850
         }
       ],
       "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "language": "Rust",
-      "stars": 1852,
+      "stars": 1850,
       "avatar": "https://avatars.githubusercontent.com/u/246595960?v=4"
     },
     "openai/codex-security": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 14330
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 14334
@@ -4445,21 +4441,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 14399
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 14407
         }
       ],
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stars": 14399,
+      "stars": 14407,
       "avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
     },
     "opensandbox-group/OpenSandbox": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 17884
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 17890
@@ -4487,21 +4483,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 17946
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 17949
         }
       ],
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
-      "stars": 17946,
+      "stars": 17949,
       "avatar": "https://avatars.githubusercontent.com/u/290567599?v=4"
     },
     "openvinotoolkit/openvino": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 12437
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 12473
@@ -4529,11 +4525,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 12765
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 12796
         }
       ],
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": 12765,
+      "stars": 12796,
       "avatar": "https://avatars.githubusercontent.com/u/55443902?v=4"
     },
     "opokukopoku/gta-6-pc-release": {
@@ -4554,10 +4554,6 @@
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 43013
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 43047
@@ -4585,21 +4581,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 43291
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 43314
         }
       ],
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "language": "Python",
-      "stars": 43291,
+      "stars": 43314,
       "avatar": "https://avatars.githubusercontent.com/u/2702526?v=4"
     },
     "perspective-dev/perspective": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 11758
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 11760
@@ -4627,21 +4623,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 11797
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 11806
         }
       ],
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "language": "Rust",
-      "stars": 11797,
+      "stars": 11806,
       "avatar": "https://avatars.githubusercontent.com/u/195977497?v=4"
     },
     "phone-harness/phone-harness": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5706
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 5720
@@ -4669,21 +4665,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5886
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5907
         }
       ],
       "description": "let your agent control your phone",
       "language": "Python",
-      "stars": 5886,
+      "stars": 5907,
       "avatar": "https://avatars.githubusercontent.com/u/325502100?v=4"
     },
     "pola-rs/polars": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 40485
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 40488
@@ -4711,21 +4707,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 40524
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 40528
         }
       ],
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
-      "stars": 40524,
+      "stars": 40528,
       "avatar": "https://avatars.githubusercontent.com/u/83768144?v=4"
     },
     "pookjw/HermesEnabler": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2488
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2490
@@ -4753,21 +4749,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2536
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2543
         }
       ],
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars": 2536,
+      "stars": 2543,
       "avatar": "https://avatars.githubusercontent.com/u/11896738?v=4"
     },
     "putyy/res-downloader": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 21522
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 21526
@@ -4795,21 +4791,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 21587
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 21589
         }
       ],
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
-      "stars": 21587,
+      "stars": 21589,
       "avatar": "https://avatars.githubusercontent.com/u/31536789?v=4"
     },
     "pytorch/torchtitan": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 5971
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 5973
@@ -4837,21 +4833,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5988
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5989
         }
       ],
       "description": "A PyTorch native platform for training generative AI models",
       "language": "Python",
-      "stars": 5988,
+      "stars": 5989,
       "avatar": "https://avatars.githubusercontent.com/u/21003710?v=4"
     },
     "replit/datacat": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-23",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 605
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 608
@@ -4879,6 +4875,10 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 614
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 614
         }
       ],
       "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
@@ -4890,10 +4890,6 @@
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 87712
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 87725
@@ -4921,21 +4917,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 87913
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 87938
         }
       ],
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
-      "stars": 87913,
+      "stars": 87938,
       "avatar": "https://avatars.githubusercontent.com/u/258253854?v=4"
     },
     "ruffle-rs/ruffle": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 18940
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 18943
@@ -4963,6 +4959,10 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 18958
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 18958
         }
       ],
       "description": "A Flash Player emulator written in Rust",
@@ -4974,10 +4974,6 @@
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3328
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3330
@@ -5005,21 +5001,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3364
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3367
         }
       ],
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "language": "Go",
-      "stars": 3364,
+      "stars": 3367,
       "avatar": "https://avatars.githubusercontent.com/u/15520254?v=4"
     },
     "rustdesk/rustdesk": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 131271
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 131291
@@ -5047,21 +5043,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 131614
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 131641
         }
       ],
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars": 131614,
+      "stars": 131641,
       "avatar": "https://avatars.githubusercontent.com/u/71636191?v=4"
     },
     "rustfs/rustfs": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 36476
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 36479
@@ -5089,21 +5085,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 36545
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 36549
         }
       ],
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
-      "stars": 36545,
+      "stars": 36549,
       "avatar": "https://avatars.githubusercontent.com/u/151849438?v=4"
     },
     "siliconjungle/shapeshift-labs-ink-studio": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1108
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1114
@@ -5131,21 +5127,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1286
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1292
         }
       ],
       "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
       "language": "JavaScript",
-      "stars": 1286,
+      "stars": 1292,
       "avatar": "https://avatars.githubusercontent.com/u/71357672?v=4"
     },
     "solidjs/solid": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 36949
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 36953
@@ -5173,6 +5169,10 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 36972
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 36972
         }
       ],
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
@@ -5184,10 +5184,6 @@
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 41239
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 41244
@@ -5215,21 +5211,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 41311
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 41314
         }
       ],
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
       "language": "Python",
-      "stars": 41311,
+      "stars": 41314,
       "avatar": "https://avatars.githubusercontent.com/u/31013580?v=4"
     },
     "staryone/motlab": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 464
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 464
@@ -5257,21 +5253,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 504
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 511
         }
       ],
       "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
       "language": "JavaScript",
-      "stars": 504,
+      "stars": 511,
       "avatar": "https://avatars.githubusercontent.com/u/67821697?v=4"
     },
     "superdesigndev/treg": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 8863
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 8869
@@ -5299,21 +5295,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 9444
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 9527
         }
       ],
       "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars": 9444,
+      "stars": 9527,
       "avatar": "https://avatars.githubusercontent.com/u/217153862?v=4"
     },
     "sybil-solutions/inference-optimisation-skill": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2536
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2571
@@ -5341,21 +5337,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2783
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2799
         }
       ],
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "language": "Python",
-      "stars": 2783,
+      "stars": 2799,
       "avatar": "https://avatars.githubusercontent.com/u/284200730?v=4"
     },
     "sybil-solutions/skill-distill": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 696
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 722
@@ -5383,21 +5379,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 869
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 897
         }
       ],
       "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
       "language": "Python",
-      "stars": 869,
+      "stars": 897,
       "avatar": "https://avatars.githubusercontent.com/u/284200730?v=4"
     },
     "t8y2/dbx": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 31322
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 31327
@@ -5425,21 +5421,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 31531
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 31535
         }
       ],
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
-      "stars": 31531,
+      "stars": 31535,
       "avatar": "https://avatars.githubusercontent.com/u/77960507?v=4"
     },
     "tianma-if/edgeever": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3535
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3542
@@ -5467,21 +5463,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3588
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3598
         }
       ],
       "description": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
       "language": "TypeScript",
-      "stars": 3588,
+      "stars": 3598,
       "avatar": "https://avatars.githubusercontent.com/u/5895871?v=4"
     },
     "tobi/qmd": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 31569
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 31575
@@ -5509,21 +5505,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 31623
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 31629
         }
       ],
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
-      "stars": 31623,
+      "stars": 31629,
       "avatar": "https://avatars.githubusercontent.com/u/347?v=4"
     },
     "toeverything/AFFiNE": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 77924
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 78013
@@ -5551,21 +5547,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 78821
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 78900
         }
       ],
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": 78821,
+      "stars": 78900,
       "avatar": "https://avatars.githubusercontent.com/u/78728988?v=4"
     },
     "tradermonty/claude-trading-skills": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 8277
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 8308
@@ -5593,21 +5589,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 8548
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 8574
         }
       ],
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars": 8548,
+      "stars": 8574,
       "avatar": "https://avatars.githubusercontent.com/u/205491838?v=4"
     },
     "twentyhq/twenty": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 61428
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 61437
@@ -5635,21 +5631,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 61504
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 61511
         }
       ],
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 61504,
+      "stars": 61511,
       "avatar": "https://avatars.githubusercontent.com/u/119600397?v=4"
     },
     "vercel-labs/agent-browser": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 53783
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 53803
@@ -5677,21 +5673,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 54106
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 54130
         }
       ],
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars": 54106,
+      "stars": 54130,
       "avatar": "https://avatars.githubusercontent.com/u/108547162?v=4"
     },
     "visgl/deck.gl": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 14815
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 14818
@@ -5719,21 +5715,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 14829
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 14830
         }
       ],
       "description": "WebGL2 powered visualization framework",
       "language": "TypeScript",
-      "stars": 14829,
+      "stars": 14830,
       "avatar": "https://avatars.githubusercontent.com/u/46735142?v=4"
     },
     "vllm-project/vllm-ascend": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3143
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3144
@@ -5761,21 +5757,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3154
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3155
         }
       ],
       "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
       "language": "Python",
-      "stars": 3154,
+      "stars": 3155,
       "avatar": "https://avatars.githubusercontent.com/u/136984999?v=4"
     },
     "vxcontrol/pentagi": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 34954
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 34965
@@ -5803,21 +5799,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 35090
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 35109
         }
       ],
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars": 35090,
+      "stars": 35109,
       "avatar": "https://avatars.githubusercontent.com/u/39194251?v=4"
     },
     "we-promise/sure": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 17761
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 17780
@@ -5845,21 +5841,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 18047
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 18067
         }
       ],
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars": 18047,
+      "stars": 18067,
       "avatar": "https://avatars.githubusercontent.com/u/222344567?v=4"
     },
     "wealthfolio/wealthfolio": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 9743
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 9745
@@ -5887,21 +5883,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 9776
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 9780
         }
       ],
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
       "language": "Rust",
-      "stars": 9776,
+      "stars": 9780,
       "avatar": "https://avatars.githubusercontent.com/u/183885451?v=4"
     },
     "wshobson/agents": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 42865
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 42870
@@ -5929,21 +5925,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 42917
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 42924
         }
       ],
       "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
       "language": "Python",
-      "stars": 42917,
+      "stars": 42924,
       "avatar": "https://avatars.githubusercontent.com/u/553618?v=4"
     },
     "zhouxiaoka/autoclip": {
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 15269
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 15389
@@ -5971,21 +5967,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 16755
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 16867
         }
       ],
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
-      "stars": 16755,
+      "stars": 16867,
       "avatar": "https://avatars.githubusercontent.com/u/78066887?v=4"
     },
     "EL4CTEO/fast-anything": {
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3571
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3622
@@ -6013,11 +6009,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 4177
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 4205
         }
       ],
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
-      "stars": 4177,
+      "stars": 4205,
       "avatar": "https://avatars.githubusercontent.com/u/215285446?v=4"
     },
     "Fadiperez71/substance-painter-win": {
@@ -6037,10 +6037,6 @@
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-25",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1150
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1201
@@ -6068,21 +6064,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1679
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1704
         }
       ],
       "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "language": "TypeScript",
-      "stars": 1679,
+      "stars": 1704,
       "avatar": "https://avatars.githubusercontent.com/u/55076202?v=4"
     },
     "ItsNotRexed/Hookshot": {
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 700
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 707
@@ -6110,11 +6106,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 747
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 752
         }
       ],
       "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
       "language": "C++",
-      "stars": 747,
+      "stars": 752,
       "avatar": "https://avatars.githubusercontent.com/u/300290919?v=4"
     },
     "Mahmoudp06/serato-dj-suite-win": {
@@ -6148,10 +6148,6 @@
       "last_seen": "2026-11-24",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 621
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 630
         },
@@ -6178,11 +6174,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 732
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 740
         }
       ],
       "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft ",
       "language": "Python",
-      "stars": 732,
+      "stars": 740,
       "avatar": "https://avatars.githubusercontent.com/u/260813551?v=4"
     },
     "andrewpandey/total-commander-win": {
@@ -6202,10 +6202,6 @@
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2959
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2971
@@ -6233,11 +6229,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3090
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3120
         }
       ],
       "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
       "language": "TypeScript",
-      "stars": 3090,
+      "stars": 3120,
       "avatar": "https://avatars.githubusercontent.com/u/355555179?v=4"
     },
     "bearclicache812/insomnia-pro-win": {
@@ -6297,10 +6297,6 @@
       "last_seen": "2026-11-26",
       "samples": [
         {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1740
-        },
-        {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1764
         },
@@ -6327,11 +6323,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1934
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1947
         }
       ],
       "description": "make your macbook's trackpad talk using its haptic motor",
       "language": "Swift",
-      "stars": 1934,
+      "stars": 1947,
       "avatar": "https://avatars.githubusercontent.com/u/239950?v=4"
     },
     "realdody/americas-recomp": {
@@ -6354,10 +6354,6 @@
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 557
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 560
@@ -6385,21 +6381,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 646
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 654
         }
       ],
       "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
       "language": "TypeScript",
-      "stars": 646,
+      "stars": 654,
       "avatar": "https://avatars.githubusercontent.com/u/44709004?v=4"
     },
     "4lwayz/portwatch-vi": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 2668
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 2930
@@ -6427,21 +6423,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 5199
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 5553
         }
       ],
       "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "language": "JavaScript",
-      "stars": 5199,
+      "stars": 5553,
       "avatar": "https://avatars.githubusercontent.com/u/359682649?v=4"
     },
     "AFK-surf/xnulinux": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 3286
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 3406
@@ -6469,21 +6465,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 4178
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 4216
         }
       ],
       "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "language": "C",
-      "stars": 4178,
+      "stars": 4216,
       "avatar": "https://avatars.githubusercontent.com/u/221804798?v=4"
     },
     "Ahmet-Dedeler/awesome-gta6-reverse-engineering": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 684
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 694
@@ -6511,21 +6507,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 780
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 787
         }
       ],
       "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
       "language": "HTML",
-      "stars": 780,
+      "stars": 787,
       "avatar": "https://avatars.githubusercontent.com/u/105894172?v=4"
     },
     "Marvisak/VIctory": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 11074
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 11426
@@ -6553,21 +6549,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 13078
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 13247
         }
       ],
       "description": "An attempt at running GTA VI on PC",
       "language": "Rust",
-      "stars": 13078,
+      "stars": 13247,
       "avatar": "https://avatars.githubusercontent.com/u/60314886?v=4"
     },
     "deterministic-machines/deslop-please": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 681
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 770
@@ -6595,21 +6591,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1136
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1149
         }
       ],
       "description": "Bring (back) sanity to your code",
       "language": "Rust",
-      "stars": 1136,
+      "stars": 1149,
       "avatar": "https://avatars.githubusercontent.com/u/353129101?v=4"
     },
     "erkamyaman/safe-anything": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 617
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 628
@@ -6637,21 +6633,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 766
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 781
         }
       ],
       "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
       "language": "Rust",
-      "stars": 766,
+      "stars": 781,
       "avatar": "https://avatars.githubusercontent.com/u/88717125?v=4"
     },
     "hoangsvit/google-ai": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 495
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 507
@@ -6679,21 +6675,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 607
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 612
         }
       ],
       "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a na",
       "language": "Python",
-      "stars": 607,
+      "stars": 612,
       "avatar": "https://avatars.githubusercontent.com/u/11882322?v=4"
     },
     "ivall/xcl": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 7729
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 7870
@@ -6721,21 +6717,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 8499
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 8578
         }
       ],
       "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "language": "Rust",
-      "stars": 8499,
+      "stars": 8578,
       "avatar": "https://avatars.githubusercontent.com/u/360790281?v=4"
     },
     "lukendeasy/open-diagram": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 386
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 388
@@ -6763,21 +6759,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 411
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 417
         }
       ],
       "description": "Python building blocks for dense architecture diagrams that check their own layout",
       "language": "Python",
-      "stars": 411,
+      "stars": 417,
       "avatar": "https://avatars.githubusercontent.com/u/358372972?v=4"
     },
     "misakano7545/workbuddy2api-panel": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-25",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1444
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1445
@@ -6805,21 +6801,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1505
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1506
         }
       ],
       "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
       "language": "Go",
-      "stars": 1505,
+      "stars": 1506,
       "avatar": "https://avatars.githubusercontent.com/u/168344685?v=4"
     },
     "qianyiai/kurocat": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 600
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 640
@@ -6847,21 +6843,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1313
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1331
         }
       ],
       "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
       "language": "TypeScript",
-      "stars": 1313,
+      "stars": 1331,
       "avatar": "https://avatars.githubusercontent.com/u/77205788?v=4"
     },
     "sshkeda/minecraft-server-on-orange-cloud": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 426
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 429
@@ -6889,6 +6885,10 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 445
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 445
         }
       ],
       "description": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
@@ -6900,10 +6900,6 @@
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 424
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 427
@@ -6931,20 +6927,20 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 446
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 448
         }
       ],
       "language": "Lean",
-      "stars": 446,
+      "stars": 448,
       "avatar": "https://avatars.githubusercontent.com/u/108429921?v=4"
     },
     "ubiquitarianism/leonida": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 1793
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 1904
@@ -6972,21 +6968,21 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 2454
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2512
         }
       ],
       "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "language": "Python",
-      "stars": 2454,
+      "stars": 2512,
       "avatar": "https://avatars.githubusercontent.com/u/283527159?v=4"
     },
     "xikhar/papercraft": {
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-26",
       "samples": [
-        {
-          "ts": "2026-11-24T21:56:09+00:00",
-          "stars": 599
-        },
         {
           "ts": "2026-11-25T01:49:21+00:00",
           "stars": 615
@@ -7014,11 +7010,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 790
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 802
         }
       ],
       "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
       "language": "JavaScript",
-      "stars": 790,
+      "stars": 802,
       "avatar": "https://avatars.githubusercontent.com/u/215908419?v=4"
     },
     "Avaneesh-Inamdar/Stream-Tube-Desktop": {
@@ -7048,11 +7048,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1400
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1457
         }
       ],
       "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
       "language": "Rust",
-      "stars": 1400,
+      "stars": 1457,
       "avatar": "https://avatars.githubusercontent.com/u/104128879?v=4"
     },
     "Indigo-0167/universal-game-mod-manager": {
@@ -7081,6 +7085,10 @@
         },
         {
           "ts": "2026-11-26T16:10:39+00:00",
+          "stars": 1301
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
           "stars": 1301
         }
       ],
@@ -7115,6 +7123,10 @@
         },
         {
           "ts": "2026-11-26T16:10:39+00:00",
+          "stars": 1263
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
           "stars": 1263
         }
       ],
@@ -7168,10 +7180,14 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1582
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1620
         }
       ],
       "language": "JavaScript",
-      "stars": 1582,
+      "stars": 1620,
       "avatar": "https://avatars.githubusercontent.com/u/38809664?v=4"
     },
     "fxceless/victory-fork": {
@@ -7201,11 +7217,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3223
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3264
         }
       ],
       "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "language": "Rust",
-      "stars": 3223,
+      "stars": 3264,
       "avatar": "https://avatars.githubusercontent.com/u/36782933?v=4"
     },
     "kai415-debug/ffmpeg-video-audio-converter": {
@@ -7234,6 +7254,10 @@
         },
         {
           "ts": "2026-11-26T16:10:39+00:00",
+          "stars": 1020
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
           "stars": 1020
         }
       ],
@@ -7268,6 +7292,10 @@
         },
         {
           "ts": "2026-11-26T16:10:39+00:00",
+          "stars": 719
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
           "stars": 719
         }
       ],
@@ -7321,6 +7349,10 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1058
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1058
         }
       ],
       "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
@@ -7355,11 +7387,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 898
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 903
         }
       ],
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
-      "stars": 898,
+      "stars": 903,
       "avatar": "https://avatars.githubusercontent.com/u/355131544?v=4"
     },
     "xcl-dev/xcl": {
@@ -7389,11 +7425,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 8499
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 8578
         }
       ],
       "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "language": "Rust",
-      "stars": 8499,
+      "stars": 8578,
       "avatar": "https://avatars.githubusercontent.com/u/360790281?v=4"
     },
     "zero5122/offline-file-converter-windows": {
@@ -7423,11 +7463,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1067
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1072
         }
       ],
       "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
       "language": "Python",
-      "stars": 1067,
+      "stars": 1072,
       "avatar": "https://avatars.githubusercontent.com/u/358666762?v=4"
     },
     "Belobug/VIctory-Belobug-AMD": {
@@ -7441,10 +7485,14 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1750
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 2410
         }
       ],
       "language": "Rust",
-      "stars": 1750,
+      "stars": 2410,
       "avatar": "https://avatars.githubusercontent.com/u/169477042?v=4"
     },
     "avatarmanz/VIctory-7900XTX": {
@@ -7458,11 +7506,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 1698
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 1819
         }
       ],
       "description": "VIctory (Xbox Series compatibility layer) tuned for AMD RX 7900 XTX: faster preparing, texture read-back, findings. No game files.",
       "language": "Rust",
-      "stars": 1698,
+      "stars": 1819,
       "avatar": "https://avatars.githubusercontent.com/u/64326402?v=4"
     },
     "n8n-io/nod": {
@@ -7476,11 +7528,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 3856
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 3946
         }
       ],
       "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
       "language": "TypeScript",
-      "stars": 3856,
+      "stars": 3946,
       "avatar": "https://avatars.githubusercontent.com/u/45487711?v=4"
     },
     "samuelgursky/davinci-resolve-mcp": {
@@ -7494,11 +7550,15 @@
         {
           "ts": "2026-11-26T16:10:39+00:00",
           "stars": 4398
+        },
+        {
+          "ts": "2026-11-26T20:57:11+00:00",
+          "stars": 4419
         }
       ],
       "description": "MCP server integration for DaVinci Resolve Studio",
       "language": "Python",
-      "stars": 4398,
+      "stars": 4419,
       "avatar": "https://avatars.githubusercontent.com/u/50971170?v=4"
     }
   }
